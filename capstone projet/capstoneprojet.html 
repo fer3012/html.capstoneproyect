@@ -1,0 +1,62 @@
+<!-- Write your code below -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    
+    <h1>Fernanda Garcia </h1>
+    <img src="./profile pic/ferimg.png" height="100" alt="profile pic">
+
+    <h2>Summary</h2>
+
+    <p>I am a hardworking and responsible woman, quickly understanding new tasks and I like challenges.</p>
+    <hr>
+    <h2>Education</h2>
+    <ul>
+        <li>Bachelor</li>
+        <li>degree in psychology - University of Santiago de Cali/Colombia</li>
+    </ul>
+    <hr>
+    <h2>Work experience</h2>
+    <ul>
+        <h4><li>administrative assistant</h4>
+            <p>February 10 2020 / May 23 2023</p>
+                
+            <ul>
+                <li>provide support in excel</li>
+                <li>schedule meetings</li>
+                <li>attend to generate, reminders, etc.</li>
+            </ul>
+        </li>
+    </ul>
+     <hr> 
+    <h2>Skills</h2>
+    <ul>
+        <li>Excel management </li>
+        <li>English management</li>
+        <li>teamwork</li>
+        <li>learning turkish</li>
+        <li>adaptation to new environments</li>
+    </ul>
+    <hr>
+    <h2>Awards and Certifications</h2>
+    <ul>
+        <li>certificate from the USC of Colombia in psychology.</li>
+    </ul>
+    <hr>
+    <h2>Other</h2>
+    <ul>
+       <li><a href="./aboutme.html/">about me</a></li> 
+       <li><a href="./aboutme.html/contactme.html">contact me </a></li>
+    </ul>
+    <footer>
+        <p>Fernanda garcia. reserved</p>
+    </footer>
+
+</body>
+</html>
